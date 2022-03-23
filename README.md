@@ -3,7 +3,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/AndrewAndJenny/count.svg) 
 # I'm Liu Weiyu
 
 - 🔭 I’m currently working on **Wuhan University**
-- 🌱 I’m currently learning **Point Cloud And Image Registration**
+- 🌱 I’m currently learning **Bundle Adjustment**
 - 👯 Currently working in **Wuhan, China**
 - 🤔 I love **Reading, Running, Programming**
 - 💬 Ask me about multimodal image registration, coarse removal and my projects
