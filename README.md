@@ -12,9 +12,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/AndrewAndJenny/count.svg) 
 
 # About My Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAndJenny&layout=compact)](https://github.com/AndrewAndJenny/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAndHelen&layout=compact)](https://github.com/AndrewAndHelen/github-readme-stats)
 
-![AndrewAndJenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewAndJenny&show_icons=true&theme=tokyonight)
+![AndrewAndHelen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewAndHelen&show_icons=true&theme=tokyonight)
 
 # My Skill Set
 <table><tr><td valign="top" width="33%">
