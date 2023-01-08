@@ -7,8 +7,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/AndrewAndHelen/AndrewAndHelen/assets/github-contribution-grid-snake.svg" /></div>
 
 ### 🙋 About me
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndrewAndHelen&show_icons=true&bg_color=00000000" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAndHelen&layout=compact" /></div>
+<div style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=AndrewAndHelen&show_icons=true&bg_color=00000000" /></div>
 
 - 👯 I’m currently working in **Wuhan, China**
 - 🔭 I’m currently working on **Wuhan University**
