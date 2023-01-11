@@ -4,7 +4,7 @@
 
 ### ⏳ My GitHub Contributions
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/AndrewAndHelen/AndrewAndHelen/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/AndrewAndHelen/AndrewAndHelen/master/assets/github-contribution-grid-snake.svg" /></div>
 
 ### 🙋 About me
 <div style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=AndrewAndHelen&show_icons=true&bg_color=00000000" /></div>
