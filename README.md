@@ -8,6 +8,7 @@
 
 ### 🙋 About me
 <div style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=AndrewAndHelen&show_icons=true&bg_color=00000000" /></div>
+<div style="display: inline-block;"><img src="https://github-profile-trophy.vercel.app/?username=AndrewAndHelen&show_icons=true&bg_color=00000000" /></div>
 
 - 👯 I’m currently working in **Wuhan, China**
 - 🔭 I’m currently working on **Wuhan University**
