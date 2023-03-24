@@ -12,7 +12,7 @@
 
 - 👯 I’m currently working in **Wuhan, China**
 - 🔭 I’m currently working on **Wuhan University**
-- 🌱 I’m currently learning **Bundle Adjustment**
+- 🌱 I’m currently learning **Gin**
 - 🤔 I love **Reading, Running, Programming**
 - 💬 Ask me about multimodal image registration, coarse removal and my projects
 - 📫 How to reach me: **15313326374@163.com**
